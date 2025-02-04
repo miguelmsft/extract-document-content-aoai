@@ -1,0 +1,29 @@
+{
+  "pageNumber": 35,
+  "extractedText": [
+    {
+      "RequirementID": "See previous ID",
+      "RequirementText": "In the event that either party to this agreement receives notice that a third party requests divulgence of confidential or otherwise protected information and/or has served upon it a subpoena or other validly issued administrative or judicial process ordering divulgence of confidential or otherwise protected information, that party shall promptly inform the other party and thereafter respond in conformity with such subpoena to the extent mandated by State law. This provision shall survive termination or completion of this agreement. The parties agree that this provision is subject to and superseded by Miss. Code Ann. Section 25-61-1, et seq. regarding Public Access to Public Records."
+    },
+    {
+      "RequirementID": "4.15",
+      "RequirementText": "THE CONTRACTOR COMPLIANCE ISSUES\nThe Contractor agrees that all work performed as part of this contract will comply fully with administrative and other requirements established by federal and state laws, regulations and guidelines, and assumes responsibility for full compliance with all such laws, regulations and guidelines, and agrees to fully reimburse DOM for any loss of funds, resources, overpayments, duplicate payments or incorrect payments resulting from noncompliance by the Contractor, its staff, or agents, as revealed in any audit."
+    },
+    {
+      "RequirementID": "4.15.1",
+      "RequirementText": "Federal, State, and Local Taxes\nUnless otherwise provided herein, the contract price shall include all applicable federal, state, and local taxes.\nThe Contractor shall pay all taxes lawfully imposed upon it with respect to this contract or any product delivered in accordance herewith. DOM makes no representation whatsoever as to exemption from liability to any tax imposed by any governmental entity on the Contractor."
+    },
+    {
+      "RequirementID": "4.15.2",
+      "RequirementText": "License Requirements\nThe Contractor shall have, or obtain, any license/permits that are required prior to and during the performance of work under this contract."
+    },
+    {
+      "RequirementID": "4.15.3",
+      "RequirementText": "HIPAA Compliance\nThe Contractor must ensure that all work supports the HIPAA Security Rules and sign a HIPAA Business Associate Agreement."
+    },
+    {
+      "RequirementID": "4.15.4",
+      "RequirementText": "Site Rules and Regulations\nThe Contractor shall use its best efforts to ensure that its employees and agents, while on DOM premises, shall comply with site rules and regulations."
+    }
+  ]
+}

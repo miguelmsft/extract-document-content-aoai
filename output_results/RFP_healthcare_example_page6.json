@@ -1,0 +1,13 @@
+{
+  "pageNumber": 30,
+  "extractedText": [
+    {
+      "RequirementID": "4.10.1",
+      "RequirementText": "No Limitation of Liability\n\nNothing in this contract shall be interpreted as excluding or limiting any liability of the Contractor for harm caused by the intentional or reckless conduct of the Contractor, or for damages incurred in the negligent performance of duties by the Contractor, or for the delivery by the Contractor of products that are defective, or for breach of contract or any other duty by the Contractor. Nothing in the contract shall be interpreted as waiving the liability of the Contractor for consequential, special, indirect, incidental, punitive or exemplary loss, damage, or expense related to the Contractor’s conduct or performance under this contract."
+    },
+    {
+      "RequirementID": "4.11.1",
+      "RequirementText": "Independent Contractor\n\nIt is expressly agreed that the Contractor is an independent Contractor performing professional services for DOM and is not an officer or employee of the State of Mississippi or DOM. It is further expressly agreed that the contract shall not be construed as a partnership or joint venture between the Contractor and DOM.\n\nThe Contractor shall be solely responsible for all applicable taxes, insurance, licensing and other costs of doing business. Should the Contractor default on these or other responsibilities"
+    }
+  ]
+}

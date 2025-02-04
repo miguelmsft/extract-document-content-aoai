@@ -1,0 +1,17 @@
+{
+  "pageNumber": 34,
+  "extractedText": [
+    {
+      "RequirementID": "4.14",
+      "RequirementText": "CONFIDENTIALITY OF INFORMATION"
+    },
+    {
+      "RequirementID": "4.14.1",
+      "RequirementText": "Confidentiality of Beneficiary Information\n\nAll information as to personal facts and circumstances concerning Medicaid beneficiaries obtained by the Contractor shall be treated as privileged communications, shall be held confidential, and shall not be divulged without the written consent of DOM and the written consent of the enrolled beneficiary, his attorney, or his responsible parent or guardian, except as may be required by DOM.\n\nThe use or disclosure of information concerning beneficiaries shall be limited to purposes directly connected with the administration of the contract.\n\nAll of the Contractor officers and employees performing any work for or on the contract shall be instructed in writing of this confidentiality requirement and required to sign such a document upon employment and annually thereafter.\n\nThe Contractor shall notify DOM promptly of any unauthorized possession, use, knowledge or attempt thereof, of DOM’s data files or other confidential information. The Contractor shall promptly furnish DOM full details of the attempted unauthorized possession, use or knowledge, and assist in investigating or preventing the recurrence thereof."
+    },
+    {
+      "RequirementID": "4.14.2",
+      "RequirementText": "Confidentiality of Proposals and Contract Terms\n\nAfter award of the contract, all Offeror’s proposals, including those terms bid in the Business Proposal, are subject to disclosure under the State’s Access to Public Records Act and the Federal Freedom of Information Act. Information specified by an Offeror as proprietary information shall be available for disclosure as provided by State statute.\n\nIn addition, a fully executed copy of the resultant contract shall be posted to the State of Mississippi’s accountability website at https://merlin.state.ms.us, in accordance with the Mississippi Accountability and Transparency Act of 2008, Section 27-104-151, et seq., of the Mississippi Code of 1972, as amended; the American Accountability and Transparency Act of 2009 (P.L. 111-5), where applicable, and Section 31-7-13 of the Mississippi Code of 1972, as amended, where applicable."
+    }
+  ]
+}

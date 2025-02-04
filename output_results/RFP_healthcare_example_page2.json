@@ -1,0 +1,17 @@
+{
+  "pageNumber": 26,
+  "extractedText": [
+    {
+      "RequirementID": "4.7.5",
+      "RequirementText": "DOM does not tolerate the possession or use of unlicensed copies of proprietary software. The Contractor shall be responsible for any penalties or fines imposed as a result of unlicensed or otherwise defectively titled software.\n\nThe Contractor, without exception, shall indemnify, save, and hold harmless DOM and its employees from liability of any nature or kind, including cost and expenses for or on account of any copyrighted, patented, or non-patented invention, process, or article manufactured by the Contractor. The Contractor has no liability when such claim is solely and exclusively due to the combination, operation or use of any article supplied hereunder with equipment or data not supplied by the Contractor or is based solely and exclusively upon DOM’s alteration of the article. DOM will provide prompt written notification of a claim of copyright or patent infringement.\n\nFurther, if such a claim is made or is pending, the Contractor may, at its option and expense, procure for DOM the right to continue use of, replace or modify the article to render it non-infringing. If none of the alternatives is reasonably available, the Contractor agrees to take back the article and refund the total amount DOM has paid the Contractor under this contract for use of the article.\n\nIf the Contractor uses any design, device, or materials covered by letters, patent or copyright, it is mutually agreed and understood without exception that the proposed prices shall include all royalties or costs arising from the use of such design, device, or materials in any way involved in the work."
+    },
+    {
+      "RequirementID": "4.7.6",
+      "RequirementText": "The Contractor shall maintain detailed records evidencing all expenses incurred pursuant to the Contract, the provision of services under the Contract, and complaints, for the purpose of audit and evaluation by DOM and other federal or State personnel. All records, including training records, pertaining to the Contract must be readily retrievable within three (3) workdays for review at the request of DOM and its authorized representatives. All records shall be maintained and available for review by authorized federal and State personnel during the entire term of the Contract and for a period of five (5) years thereafter, unless an audit is in progress. When an audit is in progress or audit findings are unresolved, records shall be kept for a period of five (5) years or until all issues are finally resolved, whichever is later."
+    },
+    {
+      "RequirementID": "4.8",
+      "RequirementText": "The Contractor represents by executing this contract that it has not retained a person to solicit or secure a State contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee except as disclosed in the contractor’s bid or proposal."
+    }
+  ]
+}

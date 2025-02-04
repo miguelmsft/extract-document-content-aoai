@@ -1,0 +1,17 @@
+{
+  "pageNumber": 25,
+  "extractedText": [
+    {
+      "RequirementID": "4.7.2",
+      "RequirementText": "Ownership of Information and Data\nDOM, The Department of Health and Human Services (DHHS), The Centers for Medicare and Medicaid Services (CMS), the State of Mississippi, and/or their agents shall have unlimited rights to use, disclose, or duplicate, for any purpose whatsoever, all information and data developed, derived, documented, or furnished by the Contractor under any contract resulting from this RFP.\n\nThe Contractor agrees to grant in its own behalf and on behalf of its agents, employees, representatives, assignees, and contractors to DOM, DHHS, CMS and the State of Mississippi and to their officers, agents, and employees acting in their official capacities a royalty-free, non-exclusive, and irrevocable license throughout the world to publish, reproduce, translate, deliver, and dispose of all such information now covered by copyright of the proposed Contractor.\n\nExcluded from the foregoing provisions in this Section 4.7.2, however, are any pre-existing, proprietary tools owned, developed, or otherwise obtained by Contractor independently of this Contract. Contractor is and shall remain the owner of all rights, title and interest in and to the Proprietary Tools, including all copyright, patent, trademark, trade secret and all other proprietary rights thereto arising under federal and state law, and no license or other right to the Proprietary Tools is granted or otherwise implied. Any right that DOM may have with respect to the Proprietary Tools shall arise only pursuant to a separate written agreement between the parties."
+    },
+    {
+      "RequirementID": "4.7.3",
+      "RequirementText": "Public Information\nOfferors must bind separately those provisions of the proposal which contain trade secrets or other proprietary data which they believe may remain confidential in accordance with Sections 25-61-9 and 79-23-1, et seq. of the Mississippi Code Annotated of 1972, as amended."
+    },
+    {
+      "RequirementID": "4.7.4",
+      "RequirementText": "Right of Inspection\nDOM, the Mississippi Department of Audit, The Department of Health and Human Services (DHHS), The Centers for Medicare and Medicaid Services (CMS), the Office of Inspector General (OIG), the General Accounting Office (GAO), or any other auditing agency prior-approved by DOM, or their authorized representative shall, at all reasonable times, have the right to enter onto the Contractor’s premises, or such other places where duties under this contract are being performed, to inspect, monitor, or otherwise evaluate (including periodic systems testing) the work being performed. The Contractor must provide access to all facilities and assistance for DOM and Mississippi Audit Department representatives. All inspections and evaluations shall be performed in such a manner as will not unduly delay work. Refusal by the Contractor to allow access to all documents, papers, letters or other materials, shall constitute a breach of contract. All audits performed by persons other than DOM staff will be coordinated through DOM and its staff."
+    }
+  ]
+}
